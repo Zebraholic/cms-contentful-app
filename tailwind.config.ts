@@ -12,6 +12,9 @@ export default {
       fontFamily: {
         sans: ["var(--font-inter)"],
       },
+      maxWidth: {
+        'mylg': '1024px',
+      }
     },
   },
   future: {
